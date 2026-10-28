@@ -1,0 +1,6 @@
+{
+  "name": "Do'a & Munajat PRO - Asisten Penyusun Naskah Doa Acara & Munajat Khidmat",
+  "description": "Asisten penyusun naskah doa acara resmi, majelis ilmu, dan munajat khidmat dengan standar amanah ilmiah (Doa Ma'tsur Al-Qur'an/Hadis & Doa Kontekstual) berharakat lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
